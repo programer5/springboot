@@ -1,4 +1,5 @@
 HELP.md
+application-oauth.properties
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -6,6 +7,7 @@ build/
 !**/src/test/**/build/
 
 ### STS ###
+application-oauth.properties
 .apt_generated
 .classpath
 .factorypath
@@ -18,6 +20,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
+application-oauth.properties
 .idea
 *.iws
 *.iml
@@ -28,6 +31,7 @@ out/
 application-oauth.properties
 
 ### NetBeans ###
+application-oauth.properties
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -35,4 +39,5 @@ application-oauth.properties
 /.nb-gradle/
 
 ### VS Code ###
+application-oauth.properties
 .vscode/
